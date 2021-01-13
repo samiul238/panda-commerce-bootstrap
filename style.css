@@ -1,0 +1,95 @@
+/* header section */
+.car-pad{
+    padding-top: 33px;
+}
+.panda-carousel{
+    background-color:#fceae8;
+    
+}
+.panda{
+    border-radius: 10px;
+    
+}
+
+.slide-word h1
+{
+    margin-left: 28px;
+}
+.slide-word h3{
+    margin-left: 28px;
+    font-size: 40px;
+    color: deeppink;
+}
+.slide-word p{
+    margin-left: 28px;
+}
+.button-all{
+    background-color: deeppink;
+    color:#fff;
+    padding: 10px;
+    margin-left: 30px;
+    width: 118px;
+    border-radius: 10px;
+    border: 0px;
+}
+.button-all:hover{
+    color: #fff;
+}
+
+/* gutter category */
+
+.categories{
+    
+    
+    padding-top: 46px;
+}
+.categories img{
+    width: 100px;
+}
+.categories .round{
+    border-radius: 12px;
+    height: 115px;
+}
+.bg-orange{
+    background-color:orange;
+}
+.bg-beguni{
+    background-color:violet;
+}
+
+/* card */
+
+
+.panda-card{
+    border: 0;
+    border-radius: 12px;
+}
+.panda-card span{
+    padding-top: 5px;
+}
+.panda-card-footer{
+    border: 0;
+    background-color: #fff;
+    border-radius: 12px;
+}
+
+.panda-card-footer .button-all{
+    margin: 0px;
+    width: 138px;
+}
+
+/* bag section */
+
+.bag-space{
+    
+    margin-bottom: 80px;
+}
+
+/* submit section */
+.submit-section{
+    background-color:#fceae8;
+    border-radius: 12px;
+}
+.submit-button .button-all{
+    margin: 0px;
+}
